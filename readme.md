@@ -21,7 +21,7 @@
 
 前端方面：
 
-- 熟悉html、css、js、jquery、VUE、element-UI、bootstrap、ajax等基本使用
+- 熟悉html、css、js、jquery、Vue、element-UI、bootstrap、ajax等基本使用
 
 - 有良好的产品意识，有责任心和团队精神，善于沟通及合作
 
