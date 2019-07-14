@@ -21,7 +21,7 @@
 
 前端方面：
 
-- 熟悉html、css、js、JQ、VUE、element-UI、bootstrap、ajax等基本使用
+- 熟悉html、css、js、jquery、VUE、element-UI、bootstrap、ajax等基本使用
 
 - 有良好的产品意识，有责任心和团队精神，善于沟通及合作
 
@@ -47,24 +47,9 @@ java后端开发 \| 研发部
 
 ## 项目经验
 
-### 1.高校精品课程及教务管理系统
-
-高校的精品课程网站、教务系统。
-
-**技术栈：Spring、SpringMVC、Mybatis、POI 、Html 、CSS、 JQuery**
-
-职责：研发精品课程前后端、开发教务系统考试系统，题目的导入导出，在线遍题、随机出卷、评卷等功能。
-
-### **2.**  **千洪跨境电商平台：**
 
 
-主要负责：用户管理、角色管理、资源权限管理、产品管理、订单管理等模块开发。
-
-其中使用SpringSecurity进行安全认证，用户--角色之间、角色--资源权限之间通过中间表关联，结合SpringSecurity通过注解方式指定某些敏感资源只能特定用户访问，从而使不同用户根据其角色访问不同资源。
-
-**技术架构: Spring+SpringMVC+Mybatis+redis+maven+SpringSecurity**
-
-###    **3. hipac电商系统**   
+### **1. hipac电商系统**   
 
 **描述：** 
 
@@ -77,6 +62,25 @@ java后端开发 \| 研发部
 **技术架构:**
 
 **Spring+SpringMVC+Mybatis+springBoot+Dubbo+zookeeper+redis+RabbitMQ+ElasticSearch+ thymeleaf+oss**
+
+
+
+### 2.高校精品课程及教务管理系统
+
+高校的精品课程网站、教务系统。
+
+**技术栈：Spring、SpringMVC、Mybatis、POI 、Html 、CSS、 JQuery**
+
+职责：研发精品课程前后端、开发教务系统考试系统，题目的导入导出，在线遍题、随机出卷、评卷等功能。
+
+### **3.**  **千洪跨境电商平台：**
+
+
+主要负责：用户管理、角色管理、资源权限管理、产品管理、订单管理等模块开发。
+
+其中使用SpringSecurity进行安全认证，用户--角色之间、角色--资源权限之间通过中间表关联，结合SpringSecurity通过注解方式指定某些敏感资源只能特定用户访问，从而使不同用户根据其角色访问不同资源。
+
+**技术架构: Spring+SpringMVC+Mybatis+redis+maven+SpringSecurity**
 
 
 
