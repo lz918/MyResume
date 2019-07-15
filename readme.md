@@ -8,6 +8,7 @@
 
   
 
+
 ## **技能清单**
 
 后端方面：
@@ -25,7 +26,7 @@
 
 - 有良好的产品意识，有责任心和团队精神，善于沟通及合作
 
-
+  
 
 ##   **工作经历**   
 
@@ -47,8 +48,6 @@ java后端开发 \| 研发部
 
 ## 项目经验
 
-
-
 ### **1. hipac电商系统**   
 
 **描述：** 
@@ -63,8 +62,6 @@ java后端开发 \| 研发部
 
 **Spring+SpringMVC+Mybatis+springBoot+Dubbo+zookeeper+redis+RabbitMQ+ElasticSearch+ thymeleaf+oss**
 
-
-
 ### **2.**  **千洪跨境电商平台：**
 
 
@@ -73,8 +70,6 @@ java后端开发 \| 研发部
 其中使用SpringSecurity进行安全认证，用户--角色之间、角色--资源权限之间通过中间表关联，结合SpringSecurity通过注解方式指定某些敏感资源只能特定用户访问，从而使不同用户根据其角色访问不同资源。
 
 **技术架构: Spring+SpringMVC+Mybatis+redis+maven+SpringSecurity**
-
-
 
 ### 3.高校精品课程及教务管理系统
 
@@ -102,7 +97,7 @@ java后端开发 \| 研发部
 
 - 2017年 获“大学生移动互联网站设计”三等奖
 
-  
+
 
 ##  致谢
 
