@@ -15,10 +15,10 @@
 
 后端方面：
 
-- 熟悉javaWeb开发、熟练使用idea、Maven、GIT等软件开发工具、
+- 熟悉javaWeb开发、熟练使用Idea、Maven、GIT等软件开发工具；
 - 熟悉Spring、Spring MVC、Mybatis等主流开源框架的应用；
 - 熟悉分布式框架Dubbo、zookeeper等使用；
-- 熟悉缓存redis 、消息中间件RabbitMQ等使用
+- 熟悉缓存redis 、消息中间件RabbitMQ等使用；
 - 熟悉Linux系统基础操作、熟悉mysql、oracle数据库。
 
 
@@ -50,7 +50,9 @@ java后端开发 \| 研发部
 
 ## 项目经验
 
-### **1. hipac电商系统**   
+
+
+### **1. hipac运营系统**   
 
 **描述：** 
 
@@ -64,7 +66,9 @@ java后端开发 \| 研发部
 
 **Spring+SpringMVC+Mybatis+springBoot+Dubbo+zookeeper+redis+RabbitMQ+ElasticSearch+ thymeleaf+oss**
 
-### **2.**  **千洪跨境电商平台：**
+
+
+### **2.**  **千洪运营平台：**
 
 
 主要负责：用户管理、角色管理、资源权限管理、产品管理、订单管理等模块开发。
@@ -73,13 +77,15 @@ java后端开发 \| 研发部
 
 **技术架构: Spring+SpringMVC+Mybatis+redis+maven+SpringSecurity**
 
+
+
 ### 3.高校精品课程及教务管理系统
 
 高校的精品课程网站、教务系统。
 
 职责：研发精品课程前后端、开发教务系统考试系统，题目的导入导出，在线遍题、随机出卷、评卷等功能。
 
-**技术栈：Spring、SpringMVC、Mybatis、POI 、Html 、CSS、 JQuery**
+**技术栈：Spring、SpringMVC、Mybatis、POI 、Html 、CSS、 jquery**
 
 
 
@@ -87,21 +93,13 @@ java后端开发 \| 研发部
 
 江西现代学院      2015—2018            专业： 软件技术
 
-
-
 ##  个人荣誉
 
 - 2016年 获 国家励志奖学金
-
 - 2016年 获 江西省“大学生科技创新竞赛””软件设计”专科组一等奖
-
 - 2017年 获“三好学生”称号
-
 - 2017年 获“大学生移动互联网站设计”三等奖
-
-
 
 ##  致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-
