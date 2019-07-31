@@ -2,7 +2,7 @@
 
 - Email：[chengy.c@foxmail.com](mailto:chengy.c@foxmail.com)
 
-- 基本信息：男   ---   23岁  
+- 基本信息：男   ---   24岁  
 
 - 工作经验： 2 年
 
